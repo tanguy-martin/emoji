@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+body {
+	background-color: #fefefe;
+	margin: 0;
+	font-family: arial, sans-serif;
+    font-size: 16px;
+}
+.page {
+    padding: 2em;
+    width: 100%;
+}
+.frame {
+    margin: 5em auto;
+    width: 90%;
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+}
